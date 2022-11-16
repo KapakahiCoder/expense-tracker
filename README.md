@@ -2,9 +2,9 @@
 
 Records expenses with visual chart bars.
 
-### Here's a picture of the result screen:
+### Here's a picture of the expenses screen:
 
-todo
+![ExpenseScreen](https://ibb.co/MNtHzGD)
 
 ## Project setup
 
