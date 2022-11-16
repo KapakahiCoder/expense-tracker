@@ -4,7 +4,7 @@ Records expenses with visual chart bars.
 
 ### Here's a picture of the expenses screen:
 
-![ExpenseScreen](https://ibb.co/MNtHzGD)
+![ExpenseScreen](https://i.ibb.co/2KCrzs7/image.png)
 
 ## Project setup
 
