@@ -12,6 +12,11 @@ Records expenses with visual chart bars.
 npm start
 ```
 
+## Built With
+
+- [React](https://https://react.dev/)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
